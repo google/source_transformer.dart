@@ -1,0 +1,11 @@
+name: source_transformer
+
+dependencies:
+  analyzer:
+  collection:
+  meta:
+  quiver:
+  source_span:
+
+dev_dependencies:
+  test:
