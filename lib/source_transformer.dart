@@ -10,6 +10,8 @@ export 'package:source_transformer/src/dart/directives.dart'
         RemoveDirectives,
         ReplaceDirectives;
 export 'package:source_transformer/src/patch.dart' show Patch;
+export 'package:source_transformer/src/patterns.dart'
+    show RemovePatterns, ReplacePatterns;
 export 'package:source_transformer/src/phase.dart' show Phase;
 export 'package:source_transformer/src/transformer.dart'
     show DartSourceTransformer, Transformer;
