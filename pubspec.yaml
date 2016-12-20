@@ -1,6 +1,6 @@
 name: source_transformer
 author: Dart Team <misc@dartlang.org>
-version: 0.1.0
+version: 0.1.1
 description: Patterns for easily re-writing source code
 homepage: https://www.github.com/google/source_transformer.dart
 
